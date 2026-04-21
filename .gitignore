@@ -13,6 +13,7 @@ env/
 # Env & secrets
 .env
 .envrc
+.mcp.json
 
 # Package managers
 .pdm-python
